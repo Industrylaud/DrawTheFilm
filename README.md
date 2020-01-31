@@ -1,5 +1,4 @@
-# Program to draw a film from want to see on filmweb
-Program pozwala wylosować film z listy filmów do obejżenia
+#Program pozwala wylosować film z listy filmów do obejżenia
 
 1. odpal rollGUI.py
 2. wpisz login i hasło do filmweba
